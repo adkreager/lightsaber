@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.galvanize.LightSaberTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-05T16:10:54" hostname="LAPTOP-I2LODNRV" time="0.035">
+  <properties/>
+  <testcase name="checkAccurateRemainingMinutes()" classname="com.galvanize.LightSaberTest" time="0.019"/>
+  <testcase name="storesJediSerialNumber()" classname="com.galvanize.LightSaberTest" time="0.001"/>
+  <testcase name="storesNewChargeValue()" classname="com.galvanize.LightSaberTest" time="0.001"/>
+  <testcase name="chargeReducedAfter10Minutes()" classname="com.galvanize.LightSaberTest" time="0.0"/>
+  <testcase name="checkRechargeAfterUse()" classname="com.galvanize.LightSaberTest" time="0.002"/>
+  <testcase name="storesNewColorValue()" classname="com.galvanize.LightSaberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
